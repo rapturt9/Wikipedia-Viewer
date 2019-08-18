@@ -1,0 +1,80 @@
+body {
+    background: purple; 
+    background: -webkit-linear-gradient(-90deg, #400080, #1a0033); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-90deg, #400080, #1a0033); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(-90deg, #400080, #1a0033); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-90deg, #400080, #1a0033); /* Standard syntax */
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+}
+h1{
+  text-align:center;
+  color:#AAAAAA;
+  font-size:5em;
+}
+.type {
+  height: 2em;
+  width:18em;
+  border: solid .5em #4d4dff;
+  border-radius:1em;
+  position:absolute;
+  padding-left:1em;
+  padding-right:1em;
+  
+}
+
+.wikiSearch {
+  
+  width:100%;
+  text-align:center;
+  margin-left:-8.5em;
+  margin-bottom:4em;
+}
+.change {
+  position:absolute;
+ display:inline-block;
+  width:14.7em;
+  margin-bottom:2em;
+  height:10em;
+  background-color:white;
+  border: solid .4em #4d4dff;
+}
+p {
+  color:white;
+  text-align:center;
+  font-size:1.13em;
+}
+#top{
+  
+  
+  text-align:center;
+
+  margin-top:9em;
+}
+#bottom{
+  margin-top:12em;
+}
+a{
+  color:white;
+}
+#stuff{
+  
+}
+.articles{
+  
+ display: block;
+    margin: auto;
+  color:#333333;
+  background-color:#999;
+  padding:.5em 1em 3em 2em;
+  height:5em;
+  width:50em;
+  margin-top:1em;
+  text-align:left;
+  
+}
+.t {
+  text-align:left;
+}
+.first {
+  margin-top:7em;
+}
